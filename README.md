@@ -37,6 +37,9 @@ Implemented all the above said functionalities using LocalStorage, and enhanced 
 ## Related Links
 https://medium.com/@salmankhan231999/clone-of-fashionnova-com-7681e2a5bf59
 
+![image](https://user-images.githubusercontent.com/95957405/158765164-336f5dba-ddf0-400c-83d7-b0eb8d24e92d.png)
+
+
 
 
 
