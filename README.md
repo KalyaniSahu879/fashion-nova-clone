@@ -1,6 +1,6 @@
 ### fashion-nova-clone
 
-FashioNova.com is an E-Commerce website, where  could buy a varities of clothes of different category. This is the Clone of FashionNova.com which was given by Masai school during the unit-3 curriculm. We are 5 members in the project team Kalyani, Magendram, Mohit, Saurav, Ankit, and Ashish. We hae taken the challenge to complete the project in 4days and successfully completed in in a deadline time..
+FashioNova.com is an E-Commerce website, where one could buy a varities of clothes of different category. <a href=" https://fashion-nova-clone-beta.vercel.app" />This</a> is the Clone of FashionNova.com which was given by Masai school during the unit-3 curriculm. We are 5 members in the project team Kalyani, Magendram, Mohit, Saurav, Ankit, and Ashish. We hae taken the challenge to complete the project in 4days and successfully completed in in a deadline time..
 
 ## Built with
 HTML
