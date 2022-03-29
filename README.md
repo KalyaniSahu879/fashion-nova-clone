@@ -14,6 +14,13 @@ Google fonts
 Google Icons
 Flaticon
 
+## TechStack
+HTML
+CSS
+JS DOM
+LocalStorage
+
+
 ## Functionalities Added
 Responsiveness in landing page
 Implemented search functionalities in landing page
